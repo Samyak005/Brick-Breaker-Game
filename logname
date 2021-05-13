@@ -1,0 +1,819 @@
+22:52:46,164 root DEBUG ball crossed reducing no of ball by 1
+22:52:46,485 root DEBUG ball crossed reducing no of ball by 1
+22:52:46,804 root DEBUG ball crossed reducing no of ball by 1
+22:52:47,127 root DEBUG ball crossed reducing no of ball by 1
+22:52:47,128 root DEBUG reducing lives by 1
+22:52:58,809 root DEBUG ball crossed reducing no of ball by 1
+22:52:58,810 root DEBUG reducing lives by 1
+22:53:08,861 root DEBUG ball crossed reducing no of ball by 1
+22:53:08,862 root DEBUG reducing lives by 1
+13:59:03,492 root INFO initial balls before reduction 1 
+13:59:03,502 root DEBUG ball crossed reducing no of ball by 1
+13:59:03,503 root INFO balls after reduction 0 
+13:59:03,503 root DEBUG in the if statement reducing lives by 1
+13:59:20,995 root INFO initial balls before reduction 8 
+13:59:20,995 root DEBUG ball crossed reducing no of ball by 1
+13:59:20,996 root INFO balls after reduction 7 
+13:59:21,311 root INFO initial balls before reduction 7 
+13:59:21,311 root DEBUG ball crossed reducing no of ball by 1
+13:59:21,312 root INFO balls after reduction 6 
+13:59:21,631 root INFO initial balls before reduction 6 
+13:59:21,632 root DEBUG ball crossed reducing no of ball by 1
+13:59:21,632 root INFO balls after reduction 5 
+13:59:21,948 root INFO initial balls before reduction 5 
+13:59:21,948 root DEBUG ball crossed reducing no of ball by 1
+13:59:21,948 root INFO balls after reduction 4 
+13:59:22,269 root INFO initial balls before reduction 4 
+13:59:22,269 root DEBUG ball crossed reducing no of ball by 1
+13:59:22,270 root INFO balls after reduction 3 
+13:59:22,591 root INFO initial balls before reduction 3 
+13:59:22,592 root DEBUG ball crossed reducing no of ball by 1
+13:59:22,592 root INFO balls after reduction 2 
+13:59:22,913 root INFO initial balls before reduction 2 
+13:59:22,914 root DEBUG ball crossed reducing no of ball by 1
+13:59:22,914 root INFO balls after reduction 1 
+13:59:23,230 root INFO initial balls before reduction 1 
+13:59:23,231 root DEBUG ball crossed reducing no of ball by 1
+13:59:23,231 root INFO balls after reduction 0 
+13:59:23,231 root DEBUG in the if statement reducing lives by 1
+13:59:29,260 root INFO initial balls before reduction 2 
+13:59:29,261 root DEBUG ball crossed reducing no of ball by 1
+13:59:29,262 root INFO balls after reduction 1 
+13:59:29,450 root INFO initial balls before reduction 1 
+13:59:29,450 root DEBUG ball crossed reducing no of ball by 1
+13:59:29,451 root INFO balls after reduction 0 
+13:59:29,451 root DEBUG in the if statement reducing lives by 1
+14:18:34,543 root INFO initial balls before reduction 4 
+14:18:34,544 root DEBUG ball crossed reducing no of ball by 1
+14:18:34,544 root INFO balls after reduction 3 
+14:18:34,592 root INFO initial balls before reduction 3 
+14:18:34,592 root DEBUG ball crossed reducing no of ball by 1
+14:18:34,592 root INFO balls after reduction 2 
+14:18:34,923 root INFO initial balls before reduction 2 
+14:18:34,923 root DEBUG ball crossed reducing no of ball by 1
+14:18:34,924 root INFO balls after reduction 1 
+14:18:35,258 root INFO initial balls before reduction 1 
+14:18:35,259 root DEBUG ball crossed reducing no of ball by 1
+14:18:35,259 root INFO balls after reduction 0 
+14:18:35,259 root DEBUG in the if statement reducing lives by 1
+14:18:43,966 root INFO initial balls before reduction 1 
+14:18:43,966 root DEBUG ball crossed reducing no of ball by 1
+14:18:43,967 root INFO balls after reduction 0 
+14:18:43,967 root DEBUG in the if statement reducing lives by 1
+14:18:48,524 root INFO initial balls before reduction 1 
+14:18:48,524 root DEBUG ball crossed reducing no of ball by 1
+14:18:48,524 root INFO balls after reduction 0 
+14:18:48,525 root DEBUG in the if statement reducing lives by 1
+14:20:29,740 root INFO initial balls before reduction 2 
+14:20:29,741 root DEBUG ball crossed reducing no of ball by 1
+14:20:29,741 root INFO balls after reduction 1 
+14:20:30,57 root INFO initial balls before reduction 1 
+14:20:30,58 root DEBUG ball crossed reducing no of ball by 1
+14:20:30,58 root INFO balls after reduction 0 
+14:20:30,58 root DEBUG in the if statement reducing lives by 1
+14:20:49,609 root INFO initial balls before reduction 1 
+14:20:49,610 root DEBUG ball crossed reducing no of ball by 1
+14:20:49,610 root INFO balls after reduction 0 
+14:20:49,611 root DEBUG in the if statement reducing lives by 1
+14:20:59,318 root INFO initial balls before reduction 1 
+14:20:59,319 root DEBUG ball crossed reducing no of ball by 1
+14:20:59,319 root INFO balls after reduction 0 
+14:20:59,319 root DEBUG in the if statement reducing lives by 1
+14:27:38,484 root INFO initial balls before reduction 2 
+14:27:38,485 root DEBUG ball crossed reducing no of ball by 1
+14:27:38,485 root INFO balls after reduction 1 
+14:27:38,486 root INFO deleted self
+14:36:51,704 root INFO initial balls before reduction 4 
+14:36:51,704 root DEBUG ball crossed reducing no of ball by 1
+14:36:51,705 root INFO balls after reduction 3 
+14:36:51,705 root INFO deleted self
+14:36:51,705 root INFO removed self
+14:36:57,398 root INFO initial balls before reduction 6 
+14:36:57,399 root DEBUG ball crossed reducing no of ball by 1
+14:36:57,399 root INFO balls after reduction 5 
+14:36:57,399 root INFO deleted self
+14:36:57,400 root INFO removed self
+14:36:59,699 root INFO initial balls before reduction 10 
+14:36:59,700 root DEBUG ball crossed reducing no of ball by 1
+14:36:59,700 root INFO balls after reduction 9 
+14:36:59,700 root INFO deleted self
+14:36:59,701 root INFO removed self
+14:37:10,883 root INFO initial balls before reduction 2 
+14:37:10,884 root DEBUG ball crossed reducing no of ball by 1
+14:37:10,884 root INFO balls after reduction 1 
+14:37:10,884 root INFO deleted self
+14:37:10,885 root INFO removed self
+14:37:16,359 root INFO initial balls before reduction 2 
+14:37:16,359 root DEBUG ball crossed reducing no of ball by 1
+14:37:16,359 root INFO balls after reduction 1 
+14:37:16,360 root INFO deleted self
+14:37:16,360 root INFO removed self
+14:37:17,517 root INFO initial balls before reduction 1 
+14:37:17,517 root DEBUG ball crossed reducing no of ball by 1
+14:37:17,518 root INFO balls after reduction 0 
+14:37:17,518 root DEBUG in the if statement reducing lives by 1
+14:37:51,792 root INFO initial balls before reduction 4 
+14:37:51,792 root DEBUG ball crossed reducing no of ball by 1
+14:37:51,793 root INFO balls after reduction 3 
+14:37:51,793 root INFO deleted self
+14:37:51,793 root INFO removed self
+14:37:55,747 root INFO initial balls before reduction 3 
+14:37:55,747 root DEBUG ball crossed reducing no of ball by 1
+14:37:55,748 root INFO balls after reduction 2 
+14:37:55,748 root INFO deleted self
+14:37:55,748 root INFO removed self
+14:38:06,948 root INFO initial balls before reduction 2 
+14:38:06,949 root DEBUG ball crossed reducing no of ball by 1
+14:38:06,949 root INFO balls after reduction 1 
+14:38:06,949 root INFO deleted self
+14:38:06,950 root INFO removed self
+14:38:29,252 root INFO initial balls before reduction 2 
+14:38:29,253 root DEBUG ball crossed reducing no of ball by 1
+14:38:29,253 root INFO balls after reduction 1 
+14:38:29,254 root INFO deleted self
+14:38:29,254 root INFO removed self
+14:38:43,321 root INFO initial balls before reduction 2 
+14:38:43,322 root DEBUG ball crossed reducing no of ball by 1
+14:38:43,322 root INFO balls after reduction 1 
+14:38:43,323 root INFO deleted self
+14:38:43,323 root INFO removed self
+14:39:04,292 root INFO initial balls before reduction 1 
+14:39:04,292 root DEBUG ball crossed reducing no of ball by 1
+14:39:04,292 root INFO balls after reduction 0 
+14:39:04,292 root DEBUG in the if statement reducing lives by 1
+16:17:55,49 root INFO initial balls before reduction 2 
+16:17:55,50 root DEBUG ball crossed reducing no of ball by 1
+16:17:55,50 root INFO balls after reduction 1 
+16:17:55,50 root INFO deleted self
+16:17:55,51 root INFO removed self
+16:17:57,730 root INFO initial balls before reduction 1 
+16:17:57,730 root DEBUG ball crossed reducing no of ball by 1
+16:17:57,731 root INFO balls after reduction 0 
+16:17:57,731 root DEBUG in the if statement reducing lives by 1
+16:18:31,898 root INFO initial balls before reduction 2 
+16:18:31,899 root DEBUG ball crossed reducing no of ball by 1
+16:18:31,899 root INFO balls after reduction 1 
+16:18:31,899 root INFO deleted self
+16:18:31,899 root INFO removed self
+16:20:33,201 root INFO initial balls before reduction 1 
+16:20:33,201 root DEBUG ball crossed reducing no of ball by 1
+16:20:33,201 root INFO balls after reduction 0 
+16:20:33,202 root DEBUG in the if statement reducing lives by 1
+17:01:38,688 root INFO initial balls before reduction 2 
+17:01:38,689 root DEBUG ball crossed reducing no of ball by 1
+17:01:38,689 root INFO balls after reduction 1 
+17:01:38,689 root INFO deleted self
+17:01:38,689 root INFO removed self
+17:05:16,630 root INFO initial balls before reduction 2 
+17:05:16,630 root DEBUG ball crossed reducing no of ball by 1
+17:05:16,631 root INFO balls after reduction 1 
+17:05:16,631 root INFO deleted self
+17:05:16,631 root INFO removed self
+17:14:32,382 root INFO initial balls before reduction 1 
+17:14:32,383 root DEBUG ball crossed reducing no of ball by 1
+17:14:32,383 root INFO balls after reduction 0 
+17:14:32,384 root DEBUG in the if statement reducing lives by 1
+17:14:45,667 root INFO initial balls before reduction 1 
+17:14:45,668 root DEBUG ball crossed reducing no of ball by 1
+17:14:45,668 root INFO balls after reduction 0 
+17:14:45,669 root DEBUG in the if statement reducing lives by 1
+17:15:37,287 root INFO initial balls before reduction 1 
+17:15:37,287 root DEBUG ball crossed reducing no of ball by 1
+17:15:37,287 root INFO balls after reduction 0 
+17:15:37,287 root DEBUG in the if statement reducing lives by 1
+17:22:13,748 root INFO initial balls before reduction 1 
+17:22:13,748 root DEBUG ball crossed reducing no of ball by 1
+17:22:13,749 root INFO balls after reduction 0 
+17:22:13,749 root DEBUG in the if statement reducing lives by 1
+17:22:28,648 root INFO initial balls before reduction 1 
+17:22:28,648 root DEBUG ball crossed reducing no of ball by 1
+17:22:28,649 root INFO balls after reduction 0 
+17:22:28,649 root DEBUG in the if statement reducing lives by 1
+17:34:57,962 root INFO initial balls before reduction 4 
+17:34:57,963 root DEBUG ball crossed reducing no of ball by 1
+17:34:57,963 root INFO balls after reduction 3 
+17:34:57,963 root INFO deleted self
+17:34:57,964 root INFO removed self
+17:35:11,795 root INFO initial balls before reduction 3 
+17:35:11,795 root DEBUG ball crossed reducing no of ball by 1
+17:35:11,796 root INFO balls after reduction 2 
+17:35:11,796 root INFO deleted self
+17:35:11,796 root INFO removed self
+17:35:23,614 root INFO initial balls before reduction 2 
+17:35:23,615 root DEBUG ball crossed reducing no of ball by 1
+17:35:23,615 root INFO balls after reduction 1 
+17:35:23,615 root INFO deleted self
+17:35:23,616 root INFO removed self
+17:35:36,42 root INFO initial balls before reduction 1 
+17:35:36,42 root DEBUG ball crossed reducing no of ball by 1
+17:35:36,43 root INFO balls after reduction 0 
+17:35:36,43 root DEBUG in the if statement reducing lives by 1
+18:31:45,146 root INFO initial balls before reduction 2 
+18:31:45,146 root DEBUG ball crossed reducing no of ball by 1
+18:31:45,147 root INFO balls after reduction 1 
+18:31:45,147 root INFO deleted self
+18:31:45,147 root INFO removed self
+18:31:59,950 root INFO initial balls before reduction 1 
+18:31:59,950 root DEBUG ball crossed reducing no of ball by 1
+18:31:59,951 root INFO balls after reduction 0 
+18:31:59,951 root DEBUG in the if statement reducing lives by 1
+18:32:19,459 root INFO initial balls before reduction 1 
+18:32:19,459 root DEBUG ball crossed reducing no of ball by 1
+18:32:19,460 root INFO balls after reduction 0 
+18:32:19,460 root DEBUG in the if statement reducing lives by 1
+18:32:31,817 root INFO initial balls before reduction 1 
+18:32:31,817 root DEBUG ball crossed reducing no of ball by 1
+18:32:31,818 root INFO balls after reduction 0 
+18:32:31,818 root DEBUG in the if statement reducing lives by 1
+22:45:33,468 root INFO initial balls before reduction 1 
+22:45:33,497 root DEBUG ball crossed reducing no of ball by 1
+22:45:33,498 root INFO balls after reduction 0 
+22:45:33,498 root DEBUG in the if statement reducing lives by 1
+22:46:00,882 root INFO initial balls before reduction 1 
+22:46:00,882 root DEBUG ball crossed reducing no of ball by 1
+22:46:00,883 root INFO balls after reduction 0 
+22:46:00,883 root DEBUG in the if statement reducing lives by 1
+18:56:46,478 root INFO initial balls before reduction 1 
+18:56:46,479 root DEBUG ball crossed reducing no of ball by 1
+18:56:46,479 root INFO balls after reduction 0 
+18:56:46,479 root DEBUG in the if statement reducing lives by 1
+18:56:56,140 root INFO initial balls before reduction 1 
+18:56:56,141 root DEBUG ball crossed reducing no of ball by 1
+18:56:56,141 root INFO balls after reduction 0 
+18:56:56,141 root DEBUG in the if statement reducing lives by 1
+19:01:49,141 root INFO initial balls before reduction 1 
+19:01:49,142 root DEBUG ball crossed reducing no of ball by 1
+19:01:49,142 root INFO balls after reduction 0 
+19:01:49,142 root DEBUG in the if statement reducing lives by 1
+19:03:42,99 root INFO initial balls before reduction 1 
+19:03:42,100 root DEBUG ball crossed reducing no of ball by 1
+19:03:42,100 root INFO balls after reduction 0 
+19:03:42,100 root DEBUG in the if statement reducing lives by 1
+19:04:46,897 root INFO initial balls before reduction 1 
+19:04:46,897 root DEBUG ball crossed reducing no of ball by 1
+19:04:46,897 root INFO balls after reduction 0 
+19:04:46,898 root DEBUG in the if statement reducing lives by 1
+19:05:19,754 root INFO initial balls before reduction 1 
+19:05:19,755 root DEBUG ball crossed reducing no of ball by 1
+19:05:19,755 root INFO balls after reduction 0 
+19:05:19,755 root DEBUG in the if statement reducing lives by 1
+19:07:47,799 root INFO initial balls before reduction 1 
+19:07:47,800 root DEBUG ball crossed reducing no of ball by 1
+19:07:47,800 root INFO balls after reduction 0 
+19:07:47,800 root DEBUG in the if statement reducing lives by 1
+19:08:02,107 root INFO initial balls before reduction 1 
+19:08:02,107 root DEBUG ball crossed reducing no of ball by 1
+19:08:02,108 root INFO balls after reduction 0 
+19:08:02,108 root DEBUG in the if statement reducing lives by 1
+19:08:28,334 root INFO initial balls before reduction 1 
+19:08:28,334 root DEBUG ball crossed reducing no of ball by 1
+19:08:28,335 root INFO balls after reduction 0 
+19:08:28,335 root DEBUG in the if statement reducing lives by 1
+19:12:53,250 root INFO initial balls before reduction 1 
+19:12:53,250 root DEBUG ball crossed reducing no of ball by 1
+19:12:53,251 root INFO balls after reduction 0 
+19:12:53,251 root DEBUG in the if statement reducing lives by 1
+19:17:02,238 root INFO initial balls before reduction 2 
+19:17:02,239 root DEBUG ball crossed reducing no of ball by 1
+19:17:02,239 root INFO balls after reduction 1 
+19:17:02,239 root INFO deleted self
+19:17:02,240 root INFO removed self
+19:17:28,302 root INFO initial balls before reduction 1 
+19:17:28,303 root DEBUG ball crossed reducing no of ball by 1
+19:17:28,303 root INFO balls after reduction 0 
+19:17:28,303 root DEBUG in the if statement reducing lives by 1
+19:18:12,598 root INFO initial balls before reduction 2 
+19:18:12,598 root DEBUG ball crossed reducing no of ball by 1
+19:18:12,598 root INFO balls after reduction 1 
+19:18:12,599 root INFO deleted self
+19:18:12,599 root INFO removed self
+19:19:00,282 root INFO initial balls before reduction 1 
+19:19:00,282 root DEBUG ball crossed reducing no of ball by 1
+19:19:00,283 root INFO balls after reduction 0 
+19:19:00,283 root DEBUG in the if statement reducing lives by 1
+19:32:18,72 root INFO initial balls before reduction 2 
+19:32:18,73 root DEBUG ball crossed reducing no of ball by 1
+19:32:18,73 root INFO balls after reduction 1 
+19:32:18,74 root INFO deleted self
+19:32:18,74 root INFO removed self
+19:32:27,411 root INFO initial balls before reduction 1 
+19:32:27,412 root DEBUG ball crossed reducing no of ball by 1
+19:32:27,412 root INFO balls after reduction 0 
+19:32:27,412 root DEBUG in the if statement reducing lives by 1
+19:33:26,206 root INFO initial balls before reduction 2 
+19:33:26,206 root DEBUG ball crossed reducing no of ball by 1
+19:33:26,207 root INFO balls after reduction 1 
+19:33:26,207 root INFO deleted self
+19:33:26,207 root INFO removed self
+19:33:32,339 root INFO initial balls before reduction 1 
+19:33:32,340 root DEBUG ball crossed reducing no of ball by 1
+19:33:32,340 root INFO balls after reduction 0 
+19:33:32,340 root DEBUG in the if statement reducing lives by 1
+19:37:19,315 root INFO initial balls before reduction 1 
+19:37:19,316 root DEBUG ball crossed reducing no of ball by 1
+19:37:19,316 root INFO balls after reduction 0 
+19:37:19,317 root DEBUG in the if statement reducing lives by 1
+19:39:23,292 root INFO initial balls before reduction 1 
+19:39:23,293 root DEBUG ball crossed reducing no of ball by 1
+19:39:23,293 root INFO balls after reduction 0 
+19:39:23,293 root DEBUG in the if statement reducing lives by 1
+19:39:52,945 root INFO initial balls before reduction 1 
+19:39:52,945 root DEBUG ball crossed reducing no of ball by 1
+19:39:52,945 root INFO balls after reduction 0 
+19:39:52,945 root DEBUG in the if statement reducing lives by 1
+19:41:31,8 root INFO initial balls before reduction 2 
+19:41:31,9 root DEBUG ball crossed reducing no of ball by 1
+19:41:31,9 root INFO balls after reduction 1 
+19:41:31,9 root INFO deleted self
+19:41:31,9 root INFO removed self
+19:48:38,749 root INFO initial balls before reduction 2 
+19:48:38,750 root DEBUG ball crossed reducing no of ball by 1
+19:48:38,750 root INFO balls after reduction 1 
+19:48:38,750 root INFO deleted self
+19:48:38,750 root INFO removed self
+19:48:40,903 root INFO initial balls before reduction 2 
+19:48:40,903 root DEBUG ball crossed reducing no of ball by 1
+19:48:40,904 root INFO balls after reduction 1 
+19:48:40,904 root INFO deleted self
+19:48:40,904 root INFO removed self
+19:49:58,443 root INFO initial balls before reduction 1 
+19:49:58,443 root DEBUG ball crossed reducing no of ball by 1
+19:49:58,443 root INFO balls after reduction 0 
+19:49:58,444 root DEBUG in the if statement reducing lives by 1
+19:51:08,525 root INFO initial balls before reduction 4 
+19:51:08,525 root DEBUG ball crossed reducing no of ball by 1
+19:51:08,525 root INFO balls after reduction 3 
+19:51:08,525 root INFO deleted self
+19:51:08,526 root INFO removed self
+19:51:22,70 root INFO initial balls before reduction 3 
+19:51:22,71 root DEBUG ball crossed reducing no of ball by 1
+19:51:22,71 root INFO balls after reduction 2 
+19:51:22,71 root INFO deleted self
+19:51:22,72 root INFO removed self
+19:51:25,529 root INFO initial balls before reduction 2 
+19:51:25,530 root DEBUG ball crossed reducing no of ball by 1
+19:51:25,530 root INFO balls after reduction 1 
+19:51:25,531 root INFO deleted self
+19:51:25,531 root INFO removed self
+19:52:43,904 root INFO initial balls before reduction 1 
+19:52:43,905 root DEBUG ball crossed reducing no of ball by 1
+19:52:43,905 root INFO balls after reduction 0 
+19:52:43,905 root DEBUG in the if statement reducing lives by 1
+19:53:32,552 root INFO initial balls before reduction 1 
+19:53:32,552 root DEBUG ball crossed reducing no of ball by 1
+19:53:32,553 root INFO balls after reduction 0 
+19:53:32,553 root DEBUG in the if statement reducing lives by 1
+19:53:42,41 root INFO initial balls before reduction 1 
+19:53:42,42 root DEBUG ball crossed reducing no of ball by 1
+19:53:42,42 root INFO balls after reduction 0 
+19:53:42,43 root DEBUG in the if statement reducing lives by 1
+19:54:28,901 root INFO initial balls before reduction 1 
+19:54:28,902 root DEBUG ball crossed reducing no of ball by 1
+19:54:28,902 root INFO balls after reduction 0 
+19:54:28,902 root DEBUG in the if statement reducing lives by 1
+19:54:55,148 root INFO initial balls before reduction 2 
+19:54:55,149 root DEBUG ball crossed reducing no of ball by 1
+19:54:55,149 root INFO balls after reduction 1 
+19:54:55,150 root INFO deleted self
+19:54:55,150 root INFO removed self
+19:54:56,642 root INFO initial balls before reduction 1 
+19:54:56,643 root DEBUG ball crossed reducing no of ball by 1
+19:54:56,643 root INFO balls after reduction 0 
+19:54:56,644 root DEBUG in the if statement reducing lives by 1
+19:55:27,852 root INFO initial balls before reduction 2 
+19:55:27,853 root DEBUG ball crossed reducing no of ball by 1
+19:55:27,853 root INFO balls after reduction 1 
+19:55:27,853 root INFO deleted self
+19:55:27,853 root INFO removed self
+19:57:31,478 root INFO initial balls before reduction 1 
+19:57:31,479 root DEBUG ball crossed reducing no of ball by 1
+19:57:31,479 root INFO balls after reduction 0 
+19:57:31,479 root DEBUG in the if statement reducing lives by 1
+19:57:57,833 root INFO initial balls before reduction 2 
+19:57:57,833 root DEBUG ball crossed reducing no of ball by 1
+19:57:57,833 root INFO balls after reduction 1 
+19:57:57,833 root INFO deleted self
+19:57:57,833 root INFO removed self
+19:58:48,982 root INFO initial balls before reduction 2 
+19:58:48,982 root DEBUG ball crossed reducing no of ball by 1
+19:58:48,982 root INFO balls after reduction 1 
+19:58:48,982 root INFO deleted self
+19:58:48,982 root INFO removed self
+19:58:55,599 root INFO initial balls before reduction 1 
+19:58:55,599 root DEBUG ball crossed reducing no of ball by 1
+19:58:55,599 root INFO balls after reduction 0 
+19:58:55,600 root DEBUG in the if statement reducing lives by 1
+20:05:25,620 root INFO initial balls before reduction 1 
+20:05:25,620 root DEBUG ball crossed reducing no of ball by 1
+20:05:25,621 root INFO balls after reduction 0 
+20:05:25,621 root DEBUG in the if statement reducing lives by 1
+20:06:22,419 root INFO initial balls before reduction 1 
+20:06:22,419 root DEBUG ball crossed reducing no of ball by 1
+20:06:22,419 root INFO balls after reduction 0 
+20:06:22,420 root DEBUG in the if statement reducing lives by 1
+20:07:57,680 root INFO initial balls before reduction 1 
+20:07:57,680 root DEBUG ball crossed reducing no of ball by 1
+20:07:57,680 root INFO balls after reduction 0 
+20:07:57,680 root DEBUG in the if statement reducing lives by 1
+20:09:02,94 root INFO initial balls before reduction 2 
+20:09:02,95 root DEBUG ball crossed reducing no of ball by 1
+20:09:02,95 root INFO balls after reduction 1 
+20:09:02,96 root INFO deleted self
+20:09:02,96 root INFO removed self
+20:37:09,151 root INFO initial balls before reduction 1 
+20:37:09,152 root DEBUG ball crossed reducing no of ball by 1
+20:37:09,152 root INFO balls after reduction 0 
+20:37:09,152 root DEBUG in the if statement reducing lives by 1
+20:37:13,683 root INFO initial balls before reduction 1 
+20:37:13,684 root DEBUG ball crossed reducing no of ball by 1
+20:37:13,684 root INFO balls after reduction 0 
+20:37:13,684 root DEBUG in the if statement reducing lives by 1
+20:38:00,38 root INFO initial balls before reduction 2 
+20:38:00,39 root DEBUG ball crossed reducing no of ball by 1
+20:38:00,39 root INFO balls after reduction 1 
+20:38:00,39 root INFO deleted self
+20:38:00,39 root INFO removed self
+20:38:18,410 root INFO initial balls before reduction 1 
+20:38:18,410 root DEBUG ball crossed reducing no of ball by 1
+20:38:18,410 root INFO balls after reduction 0 
+20:38:18,411 root DEBUG in the if statement reducing lives by 1
+20:39:08,239 root INFO initial balls before reduction 1 
+20:39:08,239 root DEBUG ball crossed reducing no of ball by 1
+20:39:08,240 root INFO balls after reduction 0 
+20:39:08,240 root DEBUG in the if statement reducing lives by 1
+20:39:17,968 root INFO initial balls before reduction 1 
+20:39:17,969 root DEBUG ball crossed reducing no of ball by 1
+20:39:17,969 root INFO balls after reduction 0 
+20:39:17,969 root DEBUG in the if statement reducing lives by 1
+20:39:46,97 root INFO initial balls before reduction 2 
+20:39:46,97 root DEBUG ball crossed reducing no of ball by 1
+20:39:46,97 root INFO balls after reduction 1 
+20:39:46,98 root INFO deleted self
+20:39:46,98 root INFO removed self
+20:40:54,32 root INFO initial balls before reduction 2 
+20:40:54,32 root DEBUG ball crossed reducing no of ball by 1
+20:40:54,33 root INFO balls after reduction 1 
+20:40:54,33 root INFO deleted self
+20:40:54,33 root INFO removed self
+20:42:30,260 root INFO initial balls before reduction 1 
+20:42:30,260 root DEBUG ball crossed reducing no of ball by 1
+20:42:30,260 root INFO balls after reduction 0 
+20:42:30,261 root DEBUG in the if statement reducing lives by 1
+20:42:49,656 root INFO initial balls before reduction 1 
+20:42:49,656 root DEBUG ball crossed reducing no of ball by 1
+20:42:49,657 root INFO balls after reduction 0 
+20:42:49,657 root DEBUG in the if statement reducing lives by 1
+21:01:42,145 root INFO initial balls before reduction 4 
+21:01:42,146 root DEBUG ball crossed reducing no of ball by 1
+21:01:42,146 root INFO balls after reduction 3 
+21:01:42,146 root INFO deleted self
+21:01:42,146 root INFO removed self
+21:01:52,40 root INFO initial balls before reduction 3 
+21:01:52,40 root DEBUG ball crossed reducing no of ball by 1
+21:01:52,40 root INFO balls after reduction 2 
+21:01:52,41 root INFO deleted self
+21:01:52,41 root INFO removed self
+21:02:01,5 root INFO initial balls before reduction 2 
+21:02:01,6 root DEBUG ball crossed reducing no of ball by 1
+21:02:01,6 root INFO balls after reduction 1 
+21:02:01,6 root INFO deleted self
+21:02:01,6 root INFO removed self
+21:02:57,940 root INFO initial balls before reduction 2 
+21:02:57,941 root DEBUG ball crossed reducing no of ball by 1
+21:02:57,941 root INFO balls after reduction 1 
+21:02:57,941 root INFO deleted self
+21:02:57,942 root INFO removed self
+21:03:58,593 root INFO initial balls before reduction 1 
+21:03:58,593 root DEBUG ball crossed reducing no of ball by 1
+21:03:58,593 root INFO balls after reduction 0 
+21:03:58,594 root DEBUG in the if statement reducing lives by 1
+21:04:42,760 root INFO initial balls before reduction 4 
+21:04:42,760 root DEBUG ball crossed reducing no of ball by 1
+21:04:42,761 root INFO balls after reduction 3 
+21:04:42,761 root INFO deleted self
+21:04:42,761 root INFO removed self
+21:04:48,148 root INFO initial balls before reduction 3 
+21:04:48,148 root DEBUG ball crossed reducing no of ball by 1
+21:04:48,149 root INFO balls after reduction 2 
+21:04:48,149 root INFO deleted self
+21:04:48,149 root INFO removed self
+21:05:02,383 root INFO initial balls before reduction 4 
+21:05:02,383 root DEBUG ball crossed reducing no of ball by 1
+21:05:02,383 root INFO balls after reduction 3 
+21:05:02,384 root INFO deleted self
+21:05:02,384 root INFO removed self
+21:05:03,925 root INFO initial balls before reduction 3 
+21:05:03,925 root DEBUG ball crossed reducing no of ball by 1
+21:05:03,925 root INFO balls after reduction 2 
+21:05:03,926 root INFO deleted self
+21:05:03,926 root INFO removed self
+21:05:06,864 root INFO initial balls before reduction 2 
+21:05:06,865 root DEBUG ball crossed reducing no of ball by 1
+21:05:06,865 root INFO balls after reduction 1 
+21:05:06,865 root INFO deleted self
+21:05:06,866 root INFO removed self
+21:05:19,283 root INFO initial balls before reduction 4 
+21:05:19,283 root DEBUG ball crossed reducing no of ball by 1
+21:05:19,283 root INFO balls after reduction 3 
+21:05:19,284 root INFO deleted self
+21:05:19,284 root INFO removed self
+21:05:23,487 root INFO initial balls before reduction 3 
+21:05:23,488 root DEBUG ball crossed reducing no of ball by 1
+21:05:23,488 root INFO balls after reduction 2 
+21:05:23,488 root INFO deleted self
+21:05:23,488 root INFO removed self
+21:05:24,952 root INFO initial balls before reduction 2 
+21:05:24,953 root DEBUG ball crossed reducing no of ball by 1
+21:05:24,953 root INFO balls after reduction 1 
+21:05:24,953 root INFO deleted self
+21:05:24,953 root INFO removed self
+09:56:04,873 root INFO initial balls before reduction 2 
+09:56:04,874 root DEBUG ball crossed reducing no of ball by 1
+09:56:04,874 root INFO balls after reduction 1 
+09:56:04,874 root INFO deleted self
+09:56:04,874 root INFO removed self
+09:56:22,971 root INFO initial balls before reduction 1 
+09:56:22,972 root DEBUG ball crossed reducing no of ball by 1
+09:56:22,972 root INFO balls after reduction 0 
+09:56:22,972 root DEBUG in the if statement reducing lives by 1
+10:01:12,6 root INFO initial balls before reduction 2 
+10:01:12,6 root DEBUG ball crossed reducing no of ball by 1
+10:01:12,6 root INFO balls after reduction 1 
+10:01:12,7 root INFO deleted self
+10:01:12,7 root INFO removed self
+10:01:25,852 root INFO initial balls before reduction 1 
+10:01:25,853 root DEBUG ball crossed reducing no of ball by 1
+10:01:25,853 root INFO balls after reduction 0 
+10:01:25,853 root DEBUG in the if statement reducing lives by 1
+10:02:08,565 root INFO initial balls before reduction 1 
+10:02:08,566 root DEBUG ball crossed reducing no of ball by 1
+10:02:08,566 root INFO balls after reduction 0 
+10:02:08,566 root DEBUG in the if statement reducing lives by 1
+10:02:28,993 root INFO initial balls before reduction 1 
+10:02:28,994 root DEBUG ball crossed reducing no of ball by 1
+10:02:28,994 root INFO balls after reduction 0 
+10:02:28,994 root DEBUG in the if statement reducing lives by 1
+10:09:22,227 root INFO initial balls before reduction 1 
+10:09:22,227 root DEBUG ball crossed reducing no of ball by 1
+10:09:22,228 root INFO balls after reduction 0 
+10:09:22,228 root DEBUG in the if statement reducing lives by 1
+10:09:52,61 root INFO initial balls before reduction 1 
+10:09:52,62 root DEBUG ball crossed reducing no of ball by 1
+10:09:52,62 root INFO balls after reduction 0 
+10:09:52,62 root DEBUG in the if statement reducing lives by 1
+10:09:56,155 root INFO initial balls before reduction 1 
+10:09:56,155 root DEBUG ball crossed reducing no of ball by 1
+10:09:56,155 root INFO balls after reduction 0 
+10:09:56,155 root DEBUG in the if statement reducing lives by 1
+10:10:27,581 root INFO initial balls before reduction 2 
+10:10:27,582 root DEBUG ball crossed reducing no of ball by 1
+10:10:27,582 root INFO balls after reduction 1 
+10:10:27,582 root INFO deleted self
+10:10:27,582 root INFO removed self
+10:11:01,623 root INFO initial balls before reduction 1 
+10:11:01,623 root DEBUG ball crossed reducing no of ball by 1
+10:11:01,623 root INFO balls after reduction 0 
+10:11:01,623 root DEBUG in the if statement reducing lives by 1
+10:14:58,37 root INFO initial balls before reduction 1 
+10:14:58,38 root DEBUG ball crossed reducing no of ball by 1
+10:14:58,38 root INFO balls after reduction 0 
+10:14:58,38 root DEBUG in the if statement reducing lives by 1
+10:15:31,655 root INFO initial balls before reduction 1 
+10:15:31,655 root DEBUG ball crossed reducing no of ball by 1
+10:15:31,656 root INFO balls after reduction 0 
+10:15:31,656 root DEBUG in the if statement reducing lives by 1
+10:15:52,360 root INFO initial balls before reduction 8 
+10:15:52,361 root DEBUG ball crossed reducing no of ball by 1
+10:15:52,361 root INFO balls after reduction 7 
+10:15:52,361 root INFO deleted self
+10:15:52,361 root INFO removed self
+10:19:56,285 root INFO initial balls before reduction 1 
+10:19:56,285 root DEBUG ball crossed reducing no of ball by 1
+10:19:56,286 root INFO balls after reduction 0 
+10:19:56,286 root DEBUG in the if statement reducing lives by 1
+10:20:59,987 root INFO initial balls before reduction 1 
+10:20:59,988 root DEBUG ball crossed reducing no of ball by 1
+10:20:59,988 root INFO balls after reduction 0 
+10:20:59,988 root DEBUG in the if statement reducing lives by 1
+10:21:07,68 root INFO initial balls before reduction 2 
+10:21:07,68 root DEBUG ball crossed reducing no of ball by 1
+10:21:07,68 root INFO balls after reduction 1 
+10:21:07,69 root INFO deleted self
+10:21:07,69 root INFO removed self
+10:22:06,129 root INFO initial balls before reduction 2 
+10:22:06,129 root DEBUG ball crossed reducing no of ball by 1
+10:22:06,130 root INFO balls after reduction 1 
+10:22:06,130 root INFO deleted self
+10:22:06,130 root INFO removed self
+10:22:13,572 root INFO initial balls before reduction 1 
+10:22:13,573 root DEBUG ball crossed reducing no of ball by 1
+10:22:13,573 root INFO balls after reduction 0 
+10:22:13,573 root DEBUG in the if statement reducing lives by 1
+10:22:40,661 root INFO initial balls before reduction 1 
+10:22:40,662 root DEBUG ball crossed reducing no of ball by 1
+10:22:40,662 root INFO balls after reduction 0 
+10:22:40,662 root DEBUG in the if statement reducing lives by 1
+10:23:30,658 root INFO initial balls before reduction 4 
+10:23:30,658 root DEBUG ball crossed reducing no of ball by 1
+10:23:30,658 root INFO balls after reduction 3 
+10:23:30,658 root INFO deleted self
+10:23:30,659 root INFO removed self
+10:23:38,742 root INFO initial balls before reduction 3 
+10:23:38,742 root DEBUG ball crossed reducing no of ball by 1
+10:23:38,742 root INFO balls after reduction 2 
+10:23:38,742 root INFO deleted self
+10:23:38,743 root INFO removed self
+10:23:39,367 root INFO initial balls before reduction 2 
+10:23:39,367 root DEBUG ball crossed reducing no of ball by 1
+10:23:39,367 root INFO balls after reduction 1 
+10:23:39,367 root INFO deleted self
+10:23:39,368 root INFO removed self
+10:24:11,921 root INFO initial balls before reduction 1 
+10:24:11,922 root DEBUG ball crossed reducing no of ball by 1
+10:24:11,922 root INFO balls after reduction 0 
+10:24:11,922 root DEBUG in the if statement reducing lives by 1
+10:25:40,863 root INFO initial balls before reduction 2 
+10:25:40,864 root DEBUG ball crossed reducing no of ball by 1
+10:25:40,864 root INFO balls after reduction 1 
+10:25:40,864 root INFO deleted self
+10:25:40,864 root INFO removed self
+10:25:47,941 root INFO initial balls before reduction 2 
+10:25:47,941 root DEBUG ball crossed reducing no of ball by 1
+10:25:47,942 root INFO balls after reduction 1 
+10:25:47,942 root INFO deleted self
+10:25:47,942 root INFO removed self
+10:32:13,963 root INFO initial balls before reduction 2 
+10:32:13,964 root DEBUG ball crossed reducing no of ball by 1
+10:32:13,964 root INFO balls after reduction 1 
+10:32:13,964 root INFO deleted self
+10:32:13,965 root INFO removed self
+10:32:58,486 root INFO initial balls before reduction 2 
+10:32:58,486 root DEBUG ball crossed reducing no of ball by 1
+10:32:58,487 root INFO balls after reduction 1 
+10:32:58,487 root INFO deleted self
+10:32:58,487 root INFO removed self
+10:33:38,493 root INFO initial balls before reduction 1 
+10:33:38,494 root DEBUG ball crossed reducing no of ball by 1
+10:33:38,494 root INFO balls after reduction 0 
+10:33:38,494 root DEBUG in the if statement reducing lives by 1
+10:35:20,530 root INFO initial balls before reduction 2 
+10:35:20,531 root DEBUG ball crossed reducing no of ball by 1
+10:35:20,531 root INFO balls after reduction 1 
+10:35:20,531 root INFO deleted self
+10:35:20,532 root INFO removed self
+10:35:44,727 root INFO initial balls before reduction 2 
+10:35:44,727 root DEBUG ball crossed reducing no of ball by 1
+10:35:44,728 root INFO balls after reduction 1 
+10:35:44,728 root INFO deleted self
+10:35:44,728 root INFO removed self
+10:48:08,665 root INFO initial balls before reduction 2 
+10:48:08,665 root DEBUG ball crossed reducing no of ball by 1
+10:48:08,665 root INFO balls after reduction 1 
+10:48:08,665 root INFO deleted self
+10:48:08,666 root INFO removed self
+10:48:15,152 root INFO initial balls before reduction 1 
+10:48:15,153 root DEBUG ball crossed reducing no of ball by 1
+10:48:15,153 root INFO balls after reduction 0 
+10:48:15,153 root DEBUG in the if statement reducing lives by 1
+10:52:34,985 root INFO initial balls before reduction 4 
+10:52:34,986 root DEBUG ball crossed reducing no of ball by 1
+10:52:34,986 root INFO balls after reduction 3 
+10:52:34,986 root INFO deleted self
+10:52:34,986 root INFO removed self
+10:52:53,204 root INFO initial balls before reduction 3 
+10:52:53,205 root DEBUG ball crossed reducing no of ball by 1
+10:52:53,205 root INFO balls after reduction 2 
+10:52:53,205 root INFO deleted self
+10:52:53,206 root INFO removed self
+10:53:08,801 root INFO initial balls before reduction 4 
+10:53:08,801 root DEBUG ball crossed reducing no of ball by 1
+10:53:08,802 root INFO balls after reduction 3 
+10:53:08,802 root INFO deleted self
+10:53:08,802 root INFO removed self
+10:53:36,735 root INFO initial balls before reduction 6 
+10:53:36,736 root DEBUG ball crossed reducing no of ball by 1
+10:53:36,736 root INFO balls after reduction 5 
+10:53:36,736 root INFO deleted self
+10:53:36,736 root INFO removed self
+10:54:21,697 root INFO initial balls before reduction 5 
+10:54:21,697 root DEBUG ball crossed reducing no of ball by 1
+10:54:21,697 root INFO balls after reduction 4 
+10:54:21,698 root INFO deleted self
+10:54:21,698 root INFO removed self
+10:54:32,84 root INFO initial balls before reduction 4 
+10:54:32,84 root DEBUG ball crossed reducing no of ball by 1
+10:54:32,85 root INFO balls after reduction 3 
+10:54:32,85 root INFO deleted self
+10:54:32,85 root INFO removed self
+10:54:32,399 root INFO initial balls before reduction 3 
+10:54:32,400 root DEBUG ball crossed reducing no of ball by 1
+10:54:32,400 root INFO balls after reduction 2 
+10:54:32,400 root INFO deleted self
+10:54:32,400 root INFO removed self
+10:55:13,637 root INFO initial balls before reduction 2 
+10:55:13,638 root DEBUG ball crossed reducing no of ball by 1
+10:55:13,638 root INFO balls after reduction 1 
+10:55:13,638 root INFO deleted self
+10:55:13,638 root INFO removed self
+10:57:32,713 root INFO initial balls before reduction 1 
+10:57:32,713 root DEBUG ball crossed reducing no of ball by 1
+10:57:32,714 root INFO balls after reduction 0 
+10:57:32,714 root DEBUG in the if statement reducing lives by 1
+11:30:17,103 root INFO initial balls before reduction 2 
+11:30:17,104 root DEBUG ball crossed reducing no of ball by 1
+11:30:17,104 root INFO balls after reduction 1 
+11:30:17,104 root INFO deleted self
+11:30:17,104 root INFO removed self
+11:34:03,803 root INFO initial balls before reduction 1 
+11:34:03,803 root DEBUG ball crossed reducing no of ball by 1
+11:34:03,803 root INFO balls after reduction 0 
+11:34:03,804 root DEBUG in the if statement reducing lives by 1
+11:42:43,602 root INFO initial balls before reduction 4 
+11:42:43,602 root DEBUG ball crossed reducing no of ball by 1
+11:42:43,603 root INFO balls after reduction 3 
+11:42:43,603 root INFO deleted self
+11:42:43,603 root INFO removed self
+11:42:46,536 root INFO initial balls before reduction 3 
+11:42:46,536 root DEBUG ball crossed reducing no of ball by 1
+11:42:46,536 root INFO balls after reduction 2 
+11:42:46,537 root INFO deleted self
+11:42:46,537 root INFO removed self
+11:42:47,499 root INFO initial balls before reduction 2 
+11:42:47,499 root DEBUG ball crossed reducing no of ball by 1
+11:42:47,499 root INFO balls after reduction 1 
+11:42:47,500 root INFO deleted self
+11:42:47,500 root INFO removed self
+11:43:56,476 root INFO initial balls before reduction 1 
+11:43:56,476 root DEBUG ball crossed reducing no of ball by 1
+11:43:56,476 root INFO balls after reduction 0 
+11:43:56,477 root DEBUG in the if statement reducing lives by 1
+11:45:28,811 root INFO initial balls before reduction 1 
+11:45:28,812 root DEBUG ball crossed reducing no of ball by 1
+11:45:28,812 root INFO balls after reduction 0 
+11:45:28,812 root DEBUG in the if statement reducing lives by 1
+11:45:36,779 root INFO initial balls before reduction 1 
+11:45:36,779 root DEBUG ball crossed reducing no of ball by 1
+11:45:36,779 root INFO balls after reduction 0 
+11:45:36,779 root DEBUG in the if statement reducing lives by 1
+11:51:21,104 root INFO initial balls before reduction 1 
+11:51:21,104 root DEBUG ball crossed reducing no of ball by 1
+11:51:21,105 root INFO balls after reduction 0 
+11:51:21,105 root DEBUG in the if statement reducing lives by 1
+11:51:36,905 root INFO initial balls before reduction 4 
+11:51:36,905 root DEBUG ball crossed reducing no of ball by 1
+11:51:36,906 root INFO balls after reduction 3 
+11:51:36,906 root INFO deleted self
+11:51:36,907 root INFO removed self
+11:51:40,251 root INFO initial balls before reduction 3 
+11:51:40,252 root DEBUG ball crossed reducing no of ball by 1
+11:51:40,252 root INFO balls after reduction 2 
+11:51:40,253 root INFO deleted self
+11:51:40,253 root INFO removed self
+11:52:04,845 root INFO initial balls before reduction 4 
+11:52:04,845 root DEBUG ball crossed reducing no of ball by 1
+11:52:04,846 root INFO balls after reduction 3 
+11:52:04,846 root INFO deleted self
+11:52:04,846 root INFO removed self
+11:52:28,8 root INFO initial balls before reduction 3 
+11:52:28,8 root DEBUG ball crossed reducing no of ball by 1
+11:52:28,8 root INFO balls after reduction 2 
+11:52:28,9 root INFO deleted self
+11:52:28,9 root INFO removed self
+11:52:43,680 root INFO initial balls before reduction 2 
+11:52:43,680 root DEBUG ball crossed reducing no of ball by 1
+11:52:43,680 root INFO balls after reduction 1 
+11:52:43,680 root INFO deleted self
+11:52:43,680 root INFO removed self
+11:53:39,994 root INFO initial balls before reduction 1 
+11:53:39,995 root DEBUG ball crossed reducing no of ball by 1
+11:53:39,995 root INFO balls after reduction 0 
+11:53:39,995 root DEBUG in the if statement reducing lives by 1
+09:58:29,67 root INFO initial balls before reduction 1 
+09:58:29,117 root DEBUG ball crossed reducing no of ball by 1
+09:58:29,117 root INFO balls after reduction 0 
+09:58:29,117 root DEBUG in the if statement reducing lives by 1
+09:59:22,460 root INFO initial balls before reduction 1 
+09:59:22,460 root DEBUG ball crossed reducing no of ball by 1
+09:59:22,460 root INFO balls after reduction 0 
+09:59:22,461 root DEBUG in the if statement reducing lives by 1
+09:59:36,205 root INFO initial balls before reduction 1 
+09:59:36,205 root DEBUG ball crossed reducing no of ball by 1
+09:59:36,206 root INFO balls after reduction 0 
+09:59:36,206 root DEBUG in the if statement reducing lives by 1
+10:05:10,323 root INFO initial balls before reduction 1 
+10:05:10,323 root DEBUG ball crossed reducing no of ball by 1
+10:05:10,324 root INFO balls after reduction 0 
+10:05:10,324 root DEBUG in the if statement reducing lives by 1
+10:05:46,765 root INFO initial balls before reduction 2 
+10:05:46,765 root DEBUG ball crossed reducing no of ball by 1
+10:05:46,766 root INFO balls after reduction 1 
+10:05:46,766 root INFO deleted self
+10:05:46,766 root INFO removed self
+10:05:50,803 root INFO initial balls before reduction 1 
+10:05:50,803 root DEBUG ball crossed reducing no of ball by 1
+10:05:50,803 root INFO balls after reduction 0 
+10:05:50,804 root DEBUG in the if statement reducing lives by 1
+10:06:06,582 root INFO initial balls before reduction 1 
+10:06:06,583 root DEBUG ball crossed reducing no of ball by 1
+10:06:06,583 root INFO balls after reduction 0 
+10:06:06,583 root DEBUG in the if statement reducing lives by 1
